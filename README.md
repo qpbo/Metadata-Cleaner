@@ -167,7 +167,7 @@ Processing: screenshot_001.png
 
 #### ⚠️ ANTES de usar MetaScrub
 
-<img src="https://i.imgur.com/ERQnkKp.png" alt="Metadata antes de limpiar" width="100%">
+<img src="https://imgur.com/a/By3SPD2" alt="Metadata antes de limpiar" width="100%">
 
 **Metadata expuesta:**
 - 📍 Coordenadas GPS (ubicación exacta)
@@ -181,7 +181,7 @@ Processing: screenshot_001.png
 
 #### ✅ DESPUÉS de usar MetaScrub
 
-<img src="https://i.imgur.com/rz1YE12.png" alt="Metadata después de limpiar" width="100%">
+<img src="https://imgur.com/a/JzXJQrA" alt="Metadata después de limpiar" width="100%">
 
 **Metadata completamente eliminada:**
 - ✅ Sin GPS - Privacidad protegida
